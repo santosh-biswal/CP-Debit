@@ -22,7 +22,7 @@ public class ShipmentBookingScheduler {
 	private PopulatePendingShipmentDeligate populatePendingShipmentDeligate;
 	
 	
-	@Scheduled(cron = "0 06 15 * * ?")
+	@Scheduled(cron = "0 18 04 * * ?")
 	public void cronJobSch() {
 
 		System.out.println("I am from Sceduler");
