@@ -27,7 +27,9 @@ public class DTDCApp {
 
 		
 		SpringApplication.run(DTDCApp.class, args);
-		System.out.println("CP_DEBIT RUNNING NOW")
+		
+		System.out.println("Application stated successfully");
+		System.out.println("CP_DEBIT RUNNING NOW");
 		
 	}
 
