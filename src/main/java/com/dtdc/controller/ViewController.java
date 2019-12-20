@@ -12,9 +12,7 @@ public class ViewController {
 		return "dtdc-home";
 	}
 	
-	public String gitDemo(){
-		
-	}
+	
 	
 	
 }
